@@ -1,0 +1,16 @@
+:root {
+  $bgc: #FFFFFF;
+  $tc: #010101;
+  $fs: 20px;
+  $acolor1: #00FFFF;
+  $acolor2: #008888
+}
+
+p, pre {
+  color: var(tc);
+  font-size: var(fs);
+}
+
+* {
+  backgroun-color: var(bgc)
+}
